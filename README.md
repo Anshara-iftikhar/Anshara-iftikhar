@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshara-iftikhar&show_icons=true&locale=en" alt="anshara-iftikhar" /></p>
 
-<p><img align=https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmarketplace%2Factions%2Fsnake-game-generator-from-github-contributions&psig=AOvVaw31_Y4JIzRYzihwNJwXjdvW&ust=1764242535915000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJDHpOvZj5EDFQAAAAAdAAAAABAK /></p>
+<p><img src="https:https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" /></p>
